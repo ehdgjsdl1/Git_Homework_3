@@ -3,5 +3,6 @@ public Class Homework_3 {
     system.out.println("1111111111");
     system.out.println("2222222222");
     system.out.println("3333333333");
+    system.out.println("4444444444");
   }
 }
